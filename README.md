@@ -1,10 +1,6 @@
 **GrooveLink** is a backend module that helps users find artists similar to those in their vinyl collections. 
 
----
-
-## Project Purpose
-
-GrooveLink focuses on:
+It focuses on:
 - Accepting a user’s favorite artist (from their collection)
 - Recommending similar artists using Spotify and Last.fm metadata
 - Using genre, popularity, and follower count to compare artist profiles
